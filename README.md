@@ -11,11 +11,11 @@
 
 ```
 
-My name is:
+My name is: Parker Schuddeboom
 
-I like to:
+I like to: Ride my mountain bike
 
-I'm learning:
+I'm learning: HTML, Javacript, CSS, and the facets of web development in general.
 
 ```
 
